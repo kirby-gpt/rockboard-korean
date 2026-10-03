@@ -1,0 +1,18 @@
+{
+  "font": "Galmuri7",
+  "source_file": "Galmuri7.bdf",
+  "release_version": "2.40.3",
+  "internal_version": "2.403",
+  "sha256": "2A6FD090AC6D24F7392D6CC49DB02CE54B9D1C01048BF8C97CBCDBC5A885CB15",
+  "copyright": "Copyright (c) 2019-2025 Lee Minseo",
+  "license": "SIL Open Font License 1.1",
+  "reserved_font_name": "Galmuri",
+  "platform": "Nintendo Famicom/NES",
+  "cell_pixels": [
+    8,
+    8
+  ],
+  "baseline": 7,
+  "license_file": "Galmuri-OFL-1.1.md",
+  "license_file_sha256": "9A9E5A342C430C3FCF01A408B680F4405D5BF4AC659C931BE35F8A1B27EA69C9"
+}

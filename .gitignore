@@ -1,0 +1,10 @@
+*.nes
+*.rom
+*.sav
+*.mst
+*.exe
+*.dll
+original/
+build/
+analysis/
+reference_english/

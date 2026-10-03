@@ -1,0 +1,32 @@
+{
+  "version": "v0.1.0-beta.1",
+  "date": "2026-10-03",
+  "channel": "public beta prerelease",
+  "original_size": 262160,
+  "original_sha256": "EBAFBEBC55CE25642B647C42D0983B8CEADE208560C95E64A86ED96B52383CDE",
+  "patched_size": 524304,
+  "patched_sha256": "0AC71F0F2C7DE40EB39469FFEACF1F51CB79B041B3D8D696B3951BDD30212C84",
+  "ips_sha256": "C56B35E3D8860293569F53AF5F2CBDF62E12E2BBDBE4269C964C78651B168E33",
+  "automated_tests": 354,
+  "ips_roundtrip": true,
+  "emulator": "MesenCE 2.2.1",
+  "original_UI_screens_reviewed": 7,
+  "map_introductions_reviewed": 4,
+  "latest_UI_regression_identical_native_PNGs": 65,
+  "translated_main_payloads": 452,
+  "catalog_entries": 512,
+  "variable_card_names": 23,
+  "diagnostic_card_scenes": [
+    "use",
+    "discard confirmation",
+    "discard complete"
+  ],
+  "diagnostic_setup": "One empty inventory byte FF to 0D, then normal controller input.",
+  "full_playthrough_verified": false,
+  "real_hardware_verified": false,
+  "limitations": [
+    "Four Met race names remain Japanese.",
+    "Particle/wording refinement remains.",
+    "Special card contexts and endings need further runtime review."
+  ]
+}
